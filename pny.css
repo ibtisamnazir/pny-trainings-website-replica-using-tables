@@ -1,0 +1,150 @@
+.fa-angles-right{
+    margin-right: 5px;
+}
+
+
+.fa-bars{
+    margin-right: 10px;
+}
+
+.fa-caret-down{
+    margin-left: 10px;
+}
+
+.categbutton{
+    background-color: #2ecaf7;
+    color: white;
+    border:solid;
+    border-color: #2ecaf7;
+    font-size: 15px;
+    padding: 10px;
+
+}
+
+.categbutton:hover{
+    cursor: pointer;
+}
+
+.categbutton:active{
+    border-color: black;
+}
+
+.mainsearch{
+    width: 300px;
+    font-size: medium;
+}
+
+.fa-magnifying-glass{
+    margin-left: 10px;
+    color: red;
+}
+
+.navmenu{
+    color: black;
+    text-decoration: none;
+}
+
+.navmenu:hover{
+    color: #2ecaf7;
+    cursor: pointer;
+}
+
+.bodybutton{
+    background-color: #2ecaf7;
+    color: white;
+    border: solid;
+    border-color: #2ecaf7;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.bodybutton:hover{
+    background-color: red;
+    cursor: pointer;
+    border-color: red;
+}
+
+.viewcoursebutton{
+    background-color: transparent;
+    color: #2ecaf7;
+    border: 1px solid;
+    border-color: #2ecaf7;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.viewcoursebutton:hover{
+    background-color: #2ecaf7;
+    border-color: #2ecaf7;
+    color: white;
+    cursor: pointer;
+}
+
+.topmenu{
+    font-size: small;
+}
+
+.topmenua{
+    font-size: small;
+}
+
+.topmenua:hover{
+    color: #2ecaf7;
+    cursor: pointer;
+}
+
+.login{
+    background-color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.login:hover{
+    background-color: rgb(214, 214, 214);
+    cursor: pointer;
+}
+
+.fa-phone{
+    margin-right: 8px;
+    color: #2ecaf7;
+}
+
+.fa-envelope{
+    margin-right: 8px;
+    color: #2ecaf7;
+}
+
+.footer{
+    color: white;
+    text-decoration: none;
+}
+
+.footer:hover{
+    color: #c5c5c5;
+    text-decoration: underline;
+}
+
+.fa-square-facebook{
+     font-size: 40px;
+     color: #3b5998;
+     
+}
+
+.fa-square-twitter{
+    font-size: 40px;
+    color: #00acee;
+}
+.fa-linkedin{
+    font-size: 40px;
+    color: #0077b5;
+}
+.fa-square-youtube{
+    font-size: 40px;
+    color: #FF0000;
+}
+.fa-square-instagram{
+    font-size: 40px;
+    color: #d62976;
+}
